@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">praktikum4_menu</string>
+    <string name="mie_ayam">Mie Ayam</string>
+    <string name="bakso">Bakso</string>
+    <string name="sate">Sate</string>
+    <string name="menu_minuman">Menu Minuman</string>
+    <string name="teh_manis">Teh Manis</string>
+    <string name="kopi_susu">Kopi Susu</string>
+    <string name="sop_buah">Sop Buah</string>
+    <string name="order">ORDER</string>
 </resources>
